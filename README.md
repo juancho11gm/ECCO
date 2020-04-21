@@ -20,4 +20,13 @@ REST:
 Client: https://ws-two-tau.now.sh/
 Server:https://servidoreccows.herokuapp.com/
 
-Please follow our "[API REST](https://github.com/webservices1930/ECCO/blob/master/RutasRecursosREST%20-%20Hoja%201.pdf)"
+Please follow our "[API REST](https://github.com/webservices1930/ECCO/blob/master/RutasRecursosREST%20-%20Hoja%201.pdf)".
+
+Here you can create services: 
+
+![ecco1](https://user-images.githubusercontent.com/36536646/79825691-5c2ff500-835f-11ea-8d7b-b0d6b21cd29e.PNG)
+
+And see details!.
+
+![ecco2](https://user-images.githubusercontent.com/36536646/79825727-7964c380-835f-11ea-9151-4d2838b7b9bf.PNG)
+
