@@ -4,11 +4,11 @@
   <img src="https://camo.githubusercontent.com/7236f261f2a9e31cfda0679a1054fa4f729318f0/68747470733a2f2f692e6962622e636f2f534b746a434e6b2f4c6f676f2e706e67" width="400" height="350">
 </p>
 
-El repositorio estará orientado al desarrollo de una aplicación basada en servicios web enfocada a la comercialización de planes de Turismo Ecológico. Más información del grupo en: "[WikiEcco](https://github.com/webservices1930/ECCO/wiki)"
+Project based on web services focused on the commercialization of Ecological Tourism plans. ECCO proposes to provide a Web portal that allows mediating business transactions between providers of ecological tourism services and people interested in accessing said services. Visit: "[WikiEcco](https://github.com/webservices1930/ECCO/wiki)"
 
 SOAP:
 
-Cliente: https://spa.juancho-11gm.now.sh/#/servicioss
+Client: https://spa.juancho-11gm.now.sh/#/servicioss
 
 WSDL: http://whatsmusic.pythonanywhere.com/soap/?wsdl
 
@@ -17,7 +17,7 @@ https://ecco-7820c.firebaseapp.com
 
 REST:
 
-Cliente: https://ws-two-tau.now.sh/
-Servidor:https://servidoreccows.herokuapp.com/
+Client: https://ws-two-tau.now.sh/
+Server:https://servidoreccows.herokuapp.com/
 
-Por favor sigue nuestro "[API REST](https://github.com/webservices1930/ECCO/blob/master/RutasRecursosREST%20-%20Hoja%201.pdf)"
+Please follow our "[API REST](https://github.com/webservices1930/ECCO/blob/master/RutasRecursosREST%20-%20Hoja%201.pdf)"
