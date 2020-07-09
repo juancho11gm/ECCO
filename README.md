@@ -8,17 +8,17 @@ Project based on web services focused on the commercialization of Ecological Tou
 
 SOAP:
 
-Client: https://spa.juancho-11gm.now.sh/#/servicioss
+* [Client](https://spa.juancho-11gm.now.sh/#/servicioss)
 
-WSDL: http://whatsmusic.pythonanywhere.com/soap/?wsdl
+* [WSDL](http://whatsmusic.pythonanywhere.com/soap/?wsdl)
 
 https://ecco-7820c.firebaseapp.com
 
 
 REST:
 
-Client: https://ws-two-tau.now.sh/
-Server:https://servidoreccows.herokuapp.com/
+[Client](https://ws-two-tau.now.sh/)
+[Server](https://servidoreccows.herokuapp.com/)
 
 Please follow our "[API REST](https://github.com/webservices1930/ECCO/blob/master/RutasRecursosREST%20-%20Hoja%201.pdf)".
 
